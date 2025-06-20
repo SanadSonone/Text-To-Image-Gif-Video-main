@@ -1,3 +1,30 @@
+# 🖼️ Text To Image | GIF | Video Converter
+
+This is a simple and responsive web application that allows users to convert **text input into styled Images, GIFs, and Videos**. It utilizes **HTML, CSS, and JavaScript** to deliver a dynamic and interactive user experience.
+
+## 🚀 Features
+
+- 🔤 Convert text input into styled **images**
+- 🎞️ Generate **GIFs** from input text
+- 📹 Generate **video** output from text (simulated or with animation)
+- 💻 Responsive design for all devices
+- 🎨 Customizable fonts, colors, and backgrounds
+
+## 🛠️ Technologies Used
+
+- **HTML5** – Markup for structure
+- **CSS3** – Styling and layout
+- **JavaScript** – Dynamic functionality and interactivity
+![Screenshot 2025-06-20 123113](https://github.com/user-attachments/assets/44a84f8e-22fb-498b-9dec-6d6f06550ef6)
+## 🧑‍💻 Getting Started
+
+### Clone the repository
+
+```bash
+git clone https://github.com/SanadSonone/Text-To-Image-Gif-Video-main.git
+cd Text-To-Image-Gif-Video-main 
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
